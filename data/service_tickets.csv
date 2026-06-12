@@ -1,0 +1,2 @@
+ticket_id,inverter_id,create_time,issue_category,status
+T-999,INV-A,2023-01-01 10:45:00,Hardware,Open
