@@ -3,7 +3,11 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
-data/*.db
+*.db
+*.duckdb
 *.egg-info/
 .venv/
 venv/
+.claude/
+plant_a_data/main_monitoring_data.csv
+plant_a_data/main_monitoring_data.parquet
